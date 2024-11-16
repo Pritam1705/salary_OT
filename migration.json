@@ -1,0 +1,3 @@
+{
+  "database": "cassandra://localhost:9042/employee_db?username=scylladb&password=password"
+}

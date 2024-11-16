@@ -1,0 +1,7 @@
+/home/pritam/salary-api/src/main/java/com/opstree/microservice/salary/config/OpenAPIConfig.java
+/home/pritam/salary-api/src/main/java/com/opstree/microservice/salary/repository/EmployeeRepository.java
+/home/pritam/salary-api/src/main/java/com/opstree/microservice/salary/model/Employee.java
+/home/pritam/salary-api/src/main/java/com/opstree/microservice/salary/model/Message.java
+/home/pritam/salary-api/src/main/java/com/opstree/microservice/salary/SalaryApplication.java
+/home/pritam/salary-api/src/main/java/com/opstree/microservice/salary/contollers/SpringDataController.java
+/home/pritam/salary-api/src/main/java/com/opstree/microservice/salary/service/SpringDataSalaryService.java
